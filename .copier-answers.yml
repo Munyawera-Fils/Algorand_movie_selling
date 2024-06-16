@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.0.8
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: munfils96@gmail.com
+author_name: Munyawera-Fils
+contract_name: movie_market
+deployment_language: python
+preset_name: starter
+project_name: movie_market
+
